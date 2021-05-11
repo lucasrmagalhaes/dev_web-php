@@ -9,12 +9,25 @@
 <hr />
 
 <h4 align="left">1. Visão Geral do Curso PHP</h4>
-<p align="justify"></p>
+
+<p align="center">
+  <a href="https://github.com/lucasrmagalhaes/dev_web-php/blob/introducao_php/PHP%207%20Completo%20-%20Curso%20do%20Desenvolvedor%20Web%202021%20%2B%20Projetos/img/1.%20Vis%C3%A3o%20Geral%20do%20Curso.jpg/" target="_blank">
+    <img 
+         src="https://github.com/lucasrmagalhaes/dev_web-php/blob/introducao_php/PHP%207%20Completo%20-%20Curso%20do%20Desenvolvedor%20Web%202021%20%2B%20Projetos/img/1.%20Vis%C3%A3o%20Geral%20do%20Curso.jpg" 
+         alt="Curso PHP" 
+    />
+  </a>
+  <br />
+  <i>Curso PHP</i>
+</p>
 
 <hr />
 
 <h4 align="left">2. Visão Geral de Algoritmo</h4>
-<p align="justify"></p>
+
+<p align="justify">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Um algoritmo é uma sequência de passos os quais visam atingir um objetivo.
+</p>
 
 <hr />
 
