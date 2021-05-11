@@ -46,7 +46,10 @@
 <hr />
 
 <h4 align="left">4. Informações Importantes</h4>
-<p align="justify"></p>
+
+<p align="justify">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curso está disponível no GitHub.
+</p>
 
 <hr />
 
