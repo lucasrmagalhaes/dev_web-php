@@ -1,4 +1,4 @@
-<h1 align="center">PHP 7 Completo - Curso do Desenvolvedor Web 2021 + Projetos</h1>
+<h2 align="center">PHP 7 Completo - Curso do Desenvolvedor Web 2021 + Projetos</h2>
 
 <!-- Seção 1: Introdução PHP -->
 <details>
@@ -32,7 +32,16 @@
 <hr />
 
 <h4 align="left">3. Visão Geral de Estruturas de Dados</h4>
-<p align="justify"></p>
+
+<p align="justify">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estrutura de Dados x Dados 
+    <br /><br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estrutura de Dados - Organizar, administrar... Exemplo: Lista dos aprovados. 
+    <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FIFO - First in | First out, LIFO - Last in | First out, Árvore e Tabela.
+    <br /><br /> 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dados - "texto", false, 3.14...
+</p>
 
 <hr />
 
