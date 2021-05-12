@@ -76,6 +76,8 @@
 
 <p align="justify">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Plugin: Material Icon Theme
+  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Google Fonts: Oswald
 </p>
 
 <hr />
