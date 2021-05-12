@@ -75,7 +75,7 @@
 <h4 align="left">6. Estrutura do Template dos Exercícios</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Plugin: Material Icon Theme
 </p>
 
 <hr />
