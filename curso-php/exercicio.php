@@ -13,11 +13,16 @@
     <title>Exercício</title>
 </head>
 
-<body>
+<body class="exercicio">
     <header class="cabecalho">
         <h1>Curso PHP</h1>
         <h2>Visualização do Exercício</h2>
     </header>
+
+    <nav class="navegacao">
+        <a href="" class="verde">Sem formatação</a>
+        <a href="../index.php" class="vermelho">Voltar</a>
+    </nav>
     
     <main class="principal">
         <div class="conteudo">
