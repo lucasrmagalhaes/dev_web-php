@@ -65,87 +65,140 @@
 <hr />
 
 <h4 align="left">5. Introdução do Módulo</h4>
-<p align="justify"></p>
+  
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Construção do template. Utilizando HTML e CSS.
+</p>
 
 <hr />
 
 <h4 align="left">6. Estrutura do Template dos Exercícios</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Plugin: Material Icon Theme
+  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Google Fonts: Oswald
+</p>
 
 <hr />
 
 <h4 align="left">7. CSS Grid</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #a98f28c
+</p>
 
 <hr />
 
 <h4 align="left">8. Cabeçalho</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #b37e41d
+</p>
 
 <hr />
 
 <h4 align="left">9. Rodapé</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #934495f
+</p>
 
 <hr />
 
 <h4 align="left">10. Conteúdo</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #d6b0728
+</p>
 
 <hr />
 
 <h4 align="left">11. Menu #01</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #8247b57
+</p>
 
 <hr />
 
 <h4 align="left">12. Menu #02</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #e6f3022
+</p>
 
 <hr />
 
 <h4 align="left">13. Instalando MAMP no Windows</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Explicação de como funciona o MAMP.
+</p>
 
 <hr />
 
 <h4 align="left">14. Instalando MAMP no MacOS</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ignorado.
+</p>
 
 <hr />
 
 <h4 align="left">15. Convertendo para PHP</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #ee49a1e
+</p>
 
 <hr />
 
 <h4 align="left">16. Visualização do Exercício</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #bb79059
+</p>
 
 <hr />
 
 <h4 align="left">17. Navegação #01</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #d03f4f9
+</p>
 
 <hr />
 
 <h4 align="left">18. Navegação #02</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #a89316b
+</p>
 
 <hr />
 
 <h4 align="left">19. Navegação #03</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #eaabec2
+</p>
 
 <hr />
 
 <h4 align="left">20. Conclusão do Módulo</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #7be04e2
+</p>
 
 <hr />
 
 <h4 align="left">21. Recursão do Módulo & Links Úteis</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recomendado o php.net/manual/pt_BR.
+</p>
 
 <hr />
 
