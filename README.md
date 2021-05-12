@@ -157,7 +157,7 @@
 <h4 align="left">16. Visualização do Exercício</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #bb79059
 </p>
 
 <hr />
@@ -165,7 +165,7 @@
 <h4 align="left">17. Navegação #01</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #d03f4f9
 </p>
 
 <hr />
