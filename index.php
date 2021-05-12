@@ -106,7 +106,7 @@
     </main>
     
     <footer class="rodape">
-        COD3R & ALUNOS © 2021
+        LUCAS MAGALHÃES © <?= date('d/m/Y'); ?>
     </footer>
 </body>
 
