@@ -125,7 +125,7 @@
 <h4 align="left">12. Menu #02</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #e6f3022
 </p>
 
 <hr />
@@ -133,7 +133,7 @@
 <h4 align="left">13. Instalando MAMP no Windows</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Explicação de como funciona o MAMP.
 </p>
 
 <hr />
