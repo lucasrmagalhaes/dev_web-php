@@ -20,17 +20,14 @@
     </header>
 
     <nav class="navegacao">
-        <a href="" class="verde">Sem formatação</a>
+        <a href=<?= "{$_GET['dir']}/{$_GET['file']}.php" ?> class="verde">Sem formatação</a>
         <a href="../index.php" class="vermelho">Voltar</a>
     </nav>
     
     <main class="principal">
         <div class="conteudo">
             <?php
-                // include($_GET['dir'] . "/" . $_GET['file'] . ".php");
-                // include("{$_GET['dir']}/{$_GET['file']}.php");
                 include(__DIR__ . "/{$_GET['dir']}/{$_GET['file']}.php");
-                // http://localhost:8080/curso-php/exercicio.php?dir=teste&file=teste
             ?>
         </div>
     </main>
