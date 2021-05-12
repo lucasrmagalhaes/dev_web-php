@@ -147,37 +147,62 @@
 <hr />
 
 <h4 align="left">15. Convertendo para PHP</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #ee49a1e
+</p>
 
 <hr />
 
 <h4 align="left">16. Visualização do Exercício</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #
+</p>
 
 <hr />
 
 <h4 align="left">17. Navegação #01</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #
+</p>
 
 <hr />
 
 <h4 align="left">18. Navegação #02</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #
+</p>
+
 
 <hr />
 
 <h4 align="left">19. Navegação #03</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #
+</p>
+
 
 <hr />
 
 <h4 align="left">20. Conclusão do Módulo</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 
 <hr />
 
 <h4 align="left">21. Recursão do Módulo & Links Úteis</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 
 <hr />
 
