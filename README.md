@@ -65,22 +65,34 @@
 <hr />
 
 <h4 align="left">5. Introdução do Módulo</h4>
-<p align="justify"></p>
+  
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Construção do template. Utilizando HTML e CSS.
+</p>
 
 <hr />
 
 <h4 align="left">6. Estrutura do Template dos Exercícios</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <hr />
 
 <h4 align="left">7. CSS Grid</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <hr />
 
 <h4 align="left">8. Cabeçalho</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <hr />
 
@@ -110,7 +122,10 @@
 <hr />
 
 <h4 align="left">14. Instalando MAMP no MacOS</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ignorado.
+</p>
 
 <hr />
 
