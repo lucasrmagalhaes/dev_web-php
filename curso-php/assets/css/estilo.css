@@ -66,3 +66,44 @@ body {
     padding-right: 20px;
     color: #444;
 }
+
+.modulos {
+    display: flex;
+    flex-wrap: wrap; /* Quebra linha, caso seja necessário */
+    justify-content: space-around;
+}
+
+.modulo {
+    flex-basis: 32%;
+}
+
+.modulo > h3 {
+    margin: 0px;
+    color: #fff;
+    font-weight: 300;
+    font-size: 1.5rem;
+    padding: 10px 20px;
+    background-color: #1867c0;
+}
+
+.modulo > ul {
+    margin: 0px;
+    padding: 10px;
+    list-style: none;
+}
+
+.modulo > ul > li {
+    padding: 7px;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.modulo > ul > li > a {
+    display: flex;
+    text-decoration: none;
+    color: #222;
+}
+
+.modulo > ul > li:hover {
+    background-color: #EEE;
+}
