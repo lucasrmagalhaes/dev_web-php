@@ -85,7 +85,7 @@
 <h4 align="left">7. CSS Grid</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: a98f28c
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #a98f28c
 </p>
 
 <hr />
@@ -93,33 +93,48 @@
 <h4 align="left">8. Cabeçalho</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #b37e41d
 </p>
 
 <hr />
 
 <h4 align="left">9. Rodapé</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #934495f
+</p>
 
 <hr />
 
 <h4 align="left">10. Conteúdo</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #d6b0728
+</p>
 
 <hr />
 
 <h4 align="left">11. Menu #01</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #8247b57
+</p>
 
 <hr />
 
 <h4 align="left">12. Menu #02</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: 
+</p>
 
 <hr />
 
 <h4 align="left">13. Instalando MAMP no Windows</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <hr />
 
