@@ -173,36 +173,32 @@
 <h4 align="left">18. Navegação #02</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #a89316b
 </p>
-
 
 <hr />
 
 <h4 align="left">19. Navegação #03</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #eaabec2
 </p>
-
 
 <hr />
 
 <h4 align="left">20. Conclusão do Módulo</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;commit: #7be04e2
 </p>
-
 
 <hr />
 
 <h4 align="left">21. Recursão do Módulo & Links Úteis</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recomendado o php.net/manual/pt_BR.
 </p>
-
 
 <hr />
 
