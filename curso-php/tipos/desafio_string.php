@@ -8,4 +8,5 @@
  * string '!AbcaBcabc' retorne 1.
  */
 
- 
+echo strpos('!AbcaBcabc', 'abc') . '<br>'; // 7
+echo stripos('!AbcaBcabc', 'abc'); // 1
