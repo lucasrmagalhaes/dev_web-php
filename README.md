@@ -4,8 +4,6 @@
 <details>
 <summary><strong>Seção 1: Introdução PHP</strong></summary>  
 
-<br />
-
 <hr />
 
 <h4 align="left">1. Visão Geral do Curso PHP</h4>
@@ -59,8 +57,6 @@
 <!-- Seção 2: Revisão HTML & CSS -->
 <details>
 <summary><strong>Seção 2: Revisão HTML & CSS</strong></summary>  
-
-<br />
 
 <hr />
 
@@ -197,7 +193,7 @@
 <h4 align="left">21. Recursão do Módulo & Links Úteis</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recomendado o php.net/manual/pt_BR.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/
 </p>
 
 <hr />
@@ -264,7 +260,7 @@
 <h4 align="left">28. Comentários PHP</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comentários PHP e HTML.
 </p>
 
 <hr />
@@ -272,7 +268,7 @@
 <h4 align="left">29. Desafio do Módulo</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soluções em PHP.
 </p>
 
 <hr />
@@ -280,7 +276,7 @@
 <h4 align="left">30. Desafio do Módulo - Resposta</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Concluído.
 </p>
 
 <hr />
@@ -288,7 +284,7 @@
 <h4 align="left">31. Conclusão do Módulo</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finalizado!
 </p>
 
 <hr />
@@ -296,7 +292,7 @@
 <h4 align="left">32. Recursos do Módulo & Links Úteis</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
 </p>
 
 <hr />
