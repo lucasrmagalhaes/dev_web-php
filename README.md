@@ -1,4 +1,4 @@
-<h2 align="center">PHP 7 Completo - Curso do Desenvolvedor Web 2021 + Projetos</h2>
+<h3 align="center">PHP 7 Completo - Curso do Desenvolvedor Web 2021 + Projetos</h3>
 
 <!-- Seção 1: Introdução PHP -->
 <details>
@@ -209,22 +209,29 @@
 <details>
 <summary><strong>Seção 3: Integrando PHP com HTML & CSS</strong></summary>  
 
-<br />
-
 <hr />
 
 <h4 align="left">22. Introdução do Módulo</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apresentação do módulo.
+</p>
 
 <hr />
 
 <h4 align="left">23. Código Fonte Inicial</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <hr />
 
 <h4 align="left">24. Alternativas para Executar PHP</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <hr />
 
