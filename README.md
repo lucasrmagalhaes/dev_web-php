@@ -270,22 +270,34 @@
 <hr />
 
 <h4 align="left">29. Desafio do Módulo</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <hr />
 
 <h4 align="left">30. Desafio do Módulo - Resposta</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <hr />
 
 <h4 align="left">31. Conclusão do Módulo</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <hr />
 
 <h4 align="left">32. Recursos do Módulo & Links Úteis</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <hr />
 
