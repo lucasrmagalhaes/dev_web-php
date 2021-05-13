@@ -220,7 +220,7 @@
 <h4 align="left">23. Código Fonte Inicial</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estou acompanhando as aulas.
 </p>
 
 <hr />
@@ -309,7 +309,7 @@
 <h4 align="left">33. Introdução do Módulo</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Focado nos valores literais.
 </p>
 
 <hr />
@@ -317,7 +317,7 @@
 <h4 align="left">34. Código Fonte Inicial</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estou acompanhando as aulas.
 </p>
 
 <hr />
@@ -325,7 +325,7 @@
 <h4 align="left">35. Valor Literal</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr />
@@ -333,7 +333,7 @@
 <h4 align="left">36. Tipo Inteiro</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr />
@@ -341,7 +341,7 @@
 <h4 align="left">37. Tipo Float</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr />
