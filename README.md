@@ -1,10 +1,8 @@
-<h2 align="center">PHP 7 Completo - Curso do Desenvolvedor Web 2021 + Projetos</h2>
+<h3 align="center">PHP 7 Completo - Curso do Desenvolvedor Web 2021 + Projetos</h3>
 
 <!-- Seção 1: Introdução PHP -->
 <details>
 <summary><strong>Seção 1: Introdução PHP</strong></summary>  
-
-<br />
 
 <hr />
 
@@ -59,8 +57,6 @@
 <!-- Seção 2: Revisão HTML & CSS -->
 <details>
 <summary><strong>Seção 2: Revisão HTML & CSS</strong></summary>  
-
-<br />
 
 <hr />
 
@@ -197,7 +193,7 @@
 <h4 align="left">21. Recursão do Módulo & Links Úteis</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recomendado o php.net/manual/pt_BR.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/
 </p>
 
 <hr />
@@ -209,62 +205,95 @@
 <details>
 <summary><strong>Seção 3: Integrando PHP com HTML & CSS</strong></summary>  
 
-<br />
-
 <hr />
 
 <h4 align="left">22. Introdução do Módulo</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apresentação do módulo.
+</p>
 
 <hr />
 
 <h4 align="left">23. Código Fonte Inicial</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <hr />
 
 <h4 align="left">24. Alternativas para Executar PHP</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHP Interativo
+  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<pre>php -a</pre>
+  <br /><br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VS Code - Plugin: Code Runner
+</p>
 
 <hr />
 
 <h4 align="left">25. Olá PHP</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Olá Mundo!
+</p>
 
 <hr />
 
 <h4 align="left">26. Integração HTML</h4>
-<p align="justify"></p>
 
-<hr />
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHP e HTML juntos.
+</p>
 
 <h4 align="left">27. Integração CSS</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHP e CSS juntos.
+</p>
 
 <hr />
 
 <h4 align="left">28. Comentários PHP</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comentários PHP e HTML.
+</p>
 
 <hr />
 
 <h4 align="left">29. Desafio do Módulo</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soluções em PHP.
+</p>
 
 <hr />
 
 <h4 align="left">30. Desafio do Módulo - Resposta</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Concluído.
+</p>
 
 <hr />
 
 <h4 align="left">31. Conclusão do Módulo</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finalizado!
+</p>
 
 <hr />
 
 <h4 align="left">32. Recursos do Módulo & Links Úteis</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+</p>
 
 <hr />
 

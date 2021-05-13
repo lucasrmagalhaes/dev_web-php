@@ -33,7 +33,7 @@
     </main>
     
     <footer class="rodape">
-        LUCAS MAGALHÃES © <?= date('d/m/Y'); ?>
+        LUCAS MAGALHÃES © <?= date('Y') ?>
     </footer>
 </body>
 
