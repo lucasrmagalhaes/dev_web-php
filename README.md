@@ -325,7 +325,7 @@
 <h4 align="left">35. Valor Literal</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Introdução.
 </p>
 
 <hr />
@@ -349,7 +349,7 @@
 <h4 align="left">38. Operações Aritméticas</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr />
@@ -357,7 +357,7 @@
 <h4 align="left">39. Desafio Precedência</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr />
@@ -365,7 +365,7 @@
 <h4 align="left">40. Tipo String</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr />
@@ -373,7 +373,7 @@
 <h4 align="left">41. Desafio String</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr />
@@ -381,7 +381,7 @@
 <h4 align="left">42. Desafio String - Resposta</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr />
@@ -389,7 +389,7 @@
 <h4 align="left">43. Tipo Booleano</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr />
@@ -397,7 +397,7 @@
 <h4 align="left">44. Conversões</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr />
@@ -405,7 +405,7 @@
 <h4 align="left">45. Conclusão do Módulo</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr />
@@ -413,7 +413,7 @@
 <h4 align="left">46. Recursos do Módulo & Links Úteis</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr />

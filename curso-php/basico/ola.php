@@ -12,4 +12,4 @@ echo 'Mundo!';
 <?= "Outra forma de me 'expressar'!" ?>
 
 <?php
-// phpinfo();
+phpinfo();
