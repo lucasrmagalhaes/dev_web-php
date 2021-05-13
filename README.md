@@ -250,13 +250,13 @@
 <h4 align="left">26. Integração HTML</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHP e HTML juntos.
 </p>
 
 <h4 align="left">27. Integração CSS</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHP e CSS juntos.
 </p>
 
 <hr />
