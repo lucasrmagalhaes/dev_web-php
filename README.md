@@ -240,22 +240,32 @@
 <hr />
 
 <h4 align="left">25. Olá PHP</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Olá Mundo!
+</p>
 
 <hr />
 
 <h4 align="left">26. Integração HTML</h4>
-<p align="justify"></p>
 
-<hr />
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <h4 align="left">27. Integração CSS</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <hr />
 
 <h4 align="left">28. Comentários PHP</h4>
-<p align="justify"></p>
+
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <hr />
 

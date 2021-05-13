@@ -24,7 +24,7 @@
                 <div class="modulo verde">
                     <h3>Módulo 01</h3>
                     <ul>
-                        <li><a href="curso-php/exercicio.php?dir=teste&file=teste">Exercício A</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=ola">Olá PHP</a></li>
                     </ul>
                 </div>
 
@@ -33,7 +33,7 @@
     </main>
     
     <footer class="rodape">
-        LUCAS MAGALHÃES © <?= date('d/m/Y'); ?>
+        LUCAS MAGALHÃES © <?= date('Y'); ?>
     </footer>
 </body>
 
