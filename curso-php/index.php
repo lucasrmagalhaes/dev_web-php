@@ -42,6 +42,12 @@
                         <li><a href="exercicio.php?dir=tipos&file=string">Tipo String</a></li>
                     </ul>
                 </div>
+                <div class="modulo vermelho">
+                    <h3>Regex</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=regex&file=regex">Regex</a></li>
+                    </ul>
+                </div>
 
             </nav>
         </div>
