@@ -230,7 +230,11 @@
 <h4 align="left">24. Alternativas para Executar PHP</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHP Interativo
+  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<pre>php -a</pre>
+  <br /><br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VS Code - Plugin: Code Runner
 </p>
 
 <hr />
