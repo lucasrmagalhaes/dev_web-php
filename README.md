@@ -220,7 +220,7 @@
 <h4 align="left">23. Código Fonte Inicial</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estou acompanhando as aulas.
 </p>
 
 <hr />
@@ -309,7 +309,7 @@
 <h4 align="left">33. Introdução do Módulo</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Focado nos valores literais.
 </p>
 
 <hr />
@@ -317,7 +317,7 @@
 <h4 align="left">34. Código Fonte Inicial</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estou acompanhando as aulas.
 </p>
 
 <hr />
@@ -325,7 +325,7 @@
 <h4 align="left">35. Valor Literal</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Introdução.
 </p>
 
 <hr />
@@ -333,7 +333,7 @@
 <h4 align="left">36. Tipo Inteiro</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;871c818705257cdbff07670d3a1b642c2d98bb06
 </p>
 
 <hr />
@@ -341,7 +341,7 @@
 <h4 align="left">37. Tipo Float</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2af554fb01f0647b8f591edb2ebfac7cd22d4985
 </p>
 
 <hr />
@@ -349,7 +349,7 @@
 <h4 align="left">38. Operações Aritméticas</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;347820028738bd59df8b6b6b2349df60bf3f5377
 </p>
 
 <hr />
@@ -357,7 +357,7 @@
 <h4 align="left">39. Desafio Precedência</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f8b4f956281becb6ed3d77575e9104e43c7614a2
 </p>
 
 <hr />
@@ -365,7 +365,7 @@
 <h4 align="left">40. Tipo String</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3d9f3508bd410b4e413632b9c8231c7157c8343c
 </p>
 
 <hr />
@@ -373,7 +373,7 @@
 <h4 align="left">41. Desafio String</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d680b2516c9f09faadcb4fb6d3040c5d5bc60d98
 </p>
 
 <hr />
@@ -381,7 +381,7 @@
 <h4 align="left">42. Desafio String - Resposta</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ca830be36c57d49b9b4daacd65381e5e29e04648
 </p>
 
 <hr />
@@ -389,7 +389,7 @@
 <h4 align="left">43. Tipo Booleano</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;670c0164f90fa507cce7a55b36b654b735cd0be9
 </p>
 
 <hr />
@@ -397,7 +397,7 @@
 <h4 align="left">44. Conversões</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7acd888edceca7cfcf681a266e6bfad03d3f2cf2
 </p>
 
 <hr />
@@ -405,7 +405,7 @@
 <h4 align="left">45. Conclusão do Módulo</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr />
@@ -413,7 +413,9 @@
 <h4 align="left">46. Recursos do Módulo & Links Úteis</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.basic-syntax.phptags.php
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.types.php
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://php.net/manual/pt_BR/language.types.type-juggling.php
 </p>
 
 <hr />
