@@ -413,7 +413,9 @@
 <h4 align="left">46. Recursos do Módulo & Links Úteis</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.php.net/manual/pt_BR/language.types.php
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://php.net/manual/pt_BR/language.types.type-juggling.php
 </p>
 
 <hr />
