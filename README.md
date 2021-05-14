@@ -405,7 +405,7 @@
 <h4 align="left">45. Conclusão do Módulo</h4>
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finalizado!
 </p>
 
 <hr />
