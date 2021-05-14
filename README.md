@@ -249,6 +249,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHP e HTML juntos.
 </p>
 
+<hr />
+
 <h4 align="left">27. Integração CSS</h4>
 
 <p align="justify">
