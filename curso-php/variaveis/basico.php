@@ -19,7 +19,7 @@ echo '<br>';
 var_dump($somaDosNumeros); // null
 
 $variavel = 10;
-echo '<br>' . $variavel;
+echo '<br>' . $variavel; // 10
 
 $variavel = "Agora sou uma string!";
-echo '<br>' . $variavel;
+echo '<br>' . $variavel; // "Agora sou uma string!";
