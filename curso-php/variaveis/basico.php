@@ -8,11 +8,11 @@ var_dump($numeroA);
 echo '<br>';
 $a = 3;
 $b = 16;
-$soma = $a + $b;
+$somaDosNumeros = $a + $b;
 echo $somaDosNumeros;
 
 echo '<br>';
-echo isset($somaDosNumeros); // 1
+echo isset($soma); // 19
 
 unset($somaDosNumeros);
 echo '<br>';
