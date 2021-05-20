@@ -140,5 +140,12 @@ body {
 .modulo.gold-escuro { border: 2px solid #596d00; }
 .modulo.gold-escuro > h3 { background-color: #596d00; }
 
+p.divisao {
+    margin-bottom: 0px;
+    font-weight: bold;
+}
 
+hr {
+    margin-top: 0px;
+}
 

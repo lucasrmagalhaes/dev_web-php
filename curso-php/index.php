@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <link href="https://fonts.google.com/share?selection.family=Open%20Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800">
-    <link rel="stylesheet" href="assets/css/estilo.css">
+    <link rel="stylesheet" href="recursos/css/estilo.css">
     
     <title>Curso PHP</title>
 </head>
@@ -21,6 +21,13 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
+                <div class="modulo gold-escuro">
+                    <h3>20. Regex</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=regex&file=regex">Conceito</a></li>
+                    </ul>
+                </div>
+
                 <div class="modulo roxo">
                     <h3>4. Controle</h3>
                     <ul>
@@ -67,13 +74,6 @@
                         <li><a href="exercicio.php?dir=basico&file=css">Integração CSS</a></li>
                         <li><a href="exercicio.php?dir=basico&file=comentarios">Comentários PHP</a></li>
                         <li><a href="exercicio.php?dir=basico&file=desafio">Desafio</a></li>
-                    </ul>
-                </div>
-
-                <div class="modulo gold-escuro">
-                    <h3>0. Regex</h3>
-                    <ul>
-                        <li><a href="exercicio.php?dir=regex&file=regex">Regex</a></li>
                     </ul>
                 </div>
             </nav>
