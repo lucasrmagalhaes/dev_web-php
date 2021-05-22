@@ -7,6 +7,8 @@
         <option value="milha-km">Milha > Km</option>
         <option value="metro-km">Metros > Km</option>
         <option value="km-metro">Km > Metros</option>
+        <option value="cel-fah">Celsius > Fahrenheit</option>
+        <option value="fah-cel">Fahrenheit > Celsius</option>
     </select>
     <button>Calcular</button>
 </form>
@@ -20,6 +22,7 @@
 <?php
 const FATOR_KM_MILHA = 0.621371;
 const FATOR_METRO_KM = 1000;
+const FATOR_CEL_FAH = 1.8;
 
 $param = $_POST['param'] ?? 0;
 
@@ -39,6 +42,14 @@ switch ($_POST['conversao']) {
     case 'km-metro':
         $distancia = $param * FATOR_METRO_KM;
         $mensagem = "$param Km(s) = $distancia Metro(s)";
+        break;
+    case 'cel-fah':
+        $conversao = $param * FATOR_CEL_FAH + 32;
+        $mensagem = "{$param}º Celsius = {$conversao}º Fahrenheit";
+        break;
+    case 'fah-cel':
+        $conversao = ($param - 32) / FATOR_CEL_FAH;
+        $mensagem = "{$param}º Fahrenheit = {$conversao}º Celsius";
         break;
     default:
         $mensagem = "Nenhum valor calculado";
