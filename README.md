@@ -6,4 +6,5 @@
   <li>Variáveis</li>
   <li>Controle</li>
   <li>Regex</li>
+  <li>Array</li>
 </ul>

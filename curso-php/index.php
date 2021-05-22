@@ -28,6 +28,13 @@
                     </ul>
                 </div>
 
+                <div class="modulo laranja">
+                    <h3>5. Array</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=basico">Array</a></li>
+                    </ul>
+                </div>
+
                 <div class="modulo roxo">
                     <h3>4. Controle</h3>
                     <ul>
