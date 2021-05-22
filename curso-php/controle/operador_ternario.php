@@ -21,4 +21,3 @@ $idade = 12;
 $status = $idade >= 18 ? $idade >= 65 ? 'Aposentado' : 'Maior de idade' : 'Menor de idade';
 
 echo "$status<br>";
-
