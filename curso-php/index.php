@@ -32,6 +32,9 @@
                     <h3>5. Array</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=array&file=basico">Array</a></li>
+                        <li><a href="exercicio.php?dir=array&file=mapa">Mapa</a></li>
+                        <li><a href="exercicio.php?dir=array&file="></a></li>
+                        <li><a href="exercicio.php?dir=array&file="></a></li>
                     </ul>
                 </div>
 
