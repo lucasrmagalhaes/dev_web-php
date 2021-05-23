@@ -34,6 +34,8 @@
                         <li><a href="exercicio.php?dir=array&file=basico">Array</a></li>
                         <li><a href="exercicio.php?dir=array&file=mapa">Mapa</a></li>
                         <li><a href="exercicio.php?dir=array&file=desafio_index">Desafio Index</a></li>
+                        <li><a href="exercicio.php?dir=array&file=desafio_meses">Desafio Meses</a></li>
+                        <li><a href="exercicio.php?dir=array&file="></a></li>
                         <li><a href="exercicio.php?dir=array&file="></a></li>
                     </ul>
                 </div>
