@@ -1,10 +1,11 @@
 <h1>Curso PHP</h1>
 
-<ul>
+<ol>
   <li>Básico</li>
   <li>Tipos</li>
   <li>Variáveis</li>
   <li>Controle</li>
-  <li>Regex</li>
   <li>Array</li>
-</ul>
+  <li>Banco de Dados</li>
+  <li>Regex</li>
+</ol>
