@@ -27,6 +27,7 @@
             <li><a href="exercicio.php?dir=db&file=criar_banco">Criar Banco</a></li>
             <li><a href="exercicio.php?dir=db&file=criar_tabela">Criar Tabela</a></li>
             <li><a href="exercicio.php?dir=db&file=inserir_1">Inserir Registro #01</a></li>
+            <li><a href="exercicio.php?dir=db&file=consultar">Consultar Registros</a></li>
           </ul>
         </div>
 
