@@ -11,24 +11,24 @@
 
     <script>
       function ajax(config) {
-        const xhr = new XMLHttpRequest();
-        xhr.open(config.metodo, config.url, true);
+        const xhr = new XMLHttpRequest()
+        xhr.open(config.metodo, config.url, true)
 
-        xhr.onload = (e) => {
+        xhr.onload = e => {
           if (xhr.status === 200) {
-            config.sucesso(xhr.response);
+            config.sucesso(xhr.response)
           } else if (xhr.status >= 400) {
             config.erro({
               codigo: xhr.status,
-              texto: xhr.statusText,
-            });
+              texto: xhr.statusText
+            })
           }
-        };
+        }
 
-        xhr.send();
+        xhr.send()
       }
 
-      function criarTabelas(estados) {
+      function criarTabela(estados) {
         const linhas = estados.map((estado) => {
           const tdId = document.createElement("td");
           tdId.innerHTML = estado.id;
@@ -58,7 +58,7 @@
         metodo: "get",
         sucesso(resposta) {
           const estados = JSON.parse(resposta);
-          criarTabelas(estados);
+          criarTabela(estados);
         },
         erro(e) {
           const msg = document.createTextNode(`${e.codigo}: ${e.texto}`);
