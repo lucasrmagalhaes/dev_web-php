@@ -23,12 +23,21 @@
       <nav class="modulos">
         <div class="modulo gold-escuro">
           <h3>15. Banco de Dados</h3>
+
           <ul>
             <li><a href="exercicio.php?dir=db&file=criar_banco">Criar Banco</a></li>
             <li><a href="exercicio.php?dir=db&file=criar_tabela">Criar Tabela</a></li>
             <li><a href="exercicio.php?dir=db&file=inserir_1">Inserir Registro #01</a></li>
             <li><a href="exercicio.php?dir=db&file=consultar">Consultar Registros</a></li>
             <li><a href="exercicio.php?dir=db&file=excluir_1">Excluir Registro #01</a></li>
+          </ul>
+        </div>
+
+        <div class="modulo roxo-escuro">
+          <h3>9. Includes</h3>
+
+          <ul>
+            <li><a href="exercicio.php?dir=includes&file=include">Include</a></li>
           </ul>
         </div>
 
