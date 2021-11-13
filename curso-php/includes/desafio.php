@@ -6,6 +6,6 @@ require_once('usuario.php');
 ini_set('display_errors', 1);
 
 $usuario = new Usuario('Lucas Magalhães', 21, 'lucasrmagalhaes');
-$usuario->apresentar();
+echo $usuario->apresentar();
 
 unset($usuario);
