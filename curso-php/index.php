@@ -38,6 +38,7 @@
 
           <ul>
             <li><a href="exercicio.php?dir=includes&file=include">Include</a></li>
+            <li><a href="exercicio.php?dir=includes&file=include_funcao">Include Função</a></li>
           </ul>
         </div>
 
