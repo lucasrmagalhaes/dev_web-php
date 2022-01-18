@@ -2,7 +2,7 @@
 
 <h4>Expressões Regulares:</h4>
 
-[regex101](https://regex101.com/)
+<a href="https://regex101.com/">regex101</a>
 
 <ul>
     <li>^ => Início de uma string.</li>
