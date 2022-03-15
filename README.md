@@ -9,3 +9,4 @@
 * [jQuery](https://github.com/lucasrmagalhaes/dev_web-php/tree/main/curso-php/jquery 'jQuery')
 * [Ajax](https://github.com/lucasrmagalhaes/dev_web-php/tree/main/curso-php/ajax 'Ajax')
 * [Regex](https://github.com/lucasrmagalhaes/dev_web-php/tree/main/curso-php/regex 'Regex')
+* [MAMP](https://www.mamp.info/en/mamp/windows/ 'MAMP')
