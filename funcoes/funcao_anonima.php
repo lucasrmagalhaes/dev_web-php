@@ -24,4 +24,4 @@ function divisao($a, $b) {
     return $a / $b;
 }
 
-executar(9, 3, '/', divisao); // 9 / 3 = 3 - Warning: Use of undefined constant divisao - assumed 'divisao' (this will throw an Error in a future version of PHP)
+// executar(9, 3, '/', divisao); // 9 / 3 = 3 - Warning: Use of undefined constant divisao - assumed 'divisao' (this will throw an Error in a future version of PHP)
