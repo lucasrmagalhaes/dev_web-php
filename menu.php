@@ -33,6 +33,7 @@
             <li><a href="exercicio.php?dir=funcoes&file=palindromo">Desafio Palindromo</a></li>
             <li><a href="exercicio.php?dir=funcoes&file=args_variaveis">Argumentos Variáveis</a></li>
             <li><a href="exercicio.php?dir=funcoes&file=args_padrao">Argumento Padrão</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=usando_tipos">Usando Tipos</a></li>
         </ul>
     </div>
 
