@@ -1,4 +1,4 @@
-<div class="palindromo">Desafio Palindromo</div>
+<div class="titulo">Desafio Palindromo</div>
 
 <?php
 function palindromo($palavra) {
