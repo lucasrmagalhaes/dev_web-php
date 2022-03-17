@@ -16,3 +16,7 @@ if(!$_SESSION['email']) {
 
 print_r($_SESSION); // Array ([nome] => Lucas [email] => lucasdarosa.ti@gmail.com) - Undefined index: email 
 ?>
+
+<p>
+    <a href="/sessao/basico_sessao_alterar.php">Alterar Sessão</a>
+</p>
