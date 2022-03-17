@@ -1,3 +1,11 @@
+<?php
+session_start();
+
+if (!$_SESSION['usuario']) {
+  header('Location: login.php');
+}
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -18,11 +26,6 @@
         <h1>Curso PHP</h1>
         <h2>Visualização do Exercício</h2>
     </header>
-
-    <nav class="navegacao">
-        <a href=<?= "{$_GET['dir']}/{$_GET['file']}.php" ?> class="verde">Sem formatação</a>
-        <a href="../index.php" class="vermelho">Voltar</a>
-    </nav>
     
     <main class="principal">
         <div class="conteudo">
