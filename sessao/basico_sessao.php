@@ -6,11 +6,11 @@ session_start();
 print_r($_SESSION); // Array ( [nome] => Lucas )
 echo '<br>';
 
-if(!$_SESSION['nome']) {
+if (!$_SESSION['nome']) {
     $_SESSION['nome'] = 'Lucas';
 }
 
-if(!$_SESSION['email']) {
+if (!$_SESSION['email']) {
     $_SESSION['email'] = 'lucasdarosa.ti@gmail.com';
 }
 

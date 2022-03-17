@@ -16,7 +16,6 @@
 
         <ul>
             <li><a href="exercicio.php?dir=sessao&file=basico_sessao">Sessão</a></li>
-            <li><a href="exercicio.php?dir=includes&file=basico_sessao_alterar">Básico Sessão Alterar</a></li>
         </ul>
     </div>
 
