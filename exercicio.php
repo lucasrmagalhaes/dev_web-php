@@ -26,6 +26,16 @@ if (!$_SESSION['usuario']) {
         <h1>Curso PHP</h1>
         <h2>Visualização do Exercício</h2>
     </header>
+
+    <nav class="navegacao">
+        <span class="usuario">Usuário: <?= $_SESSION['usuario'] ?></span>
+        
+        <a href=<?= "{$_GET['dir']}/{$_GET['file']}.php" ?> class="verde">Sem formatação</a>
+        
+        <a href="index.php">Voltar</a>
+
+        <a class="vermelho" href="logout.php">Sair</a>
+    </nav>
     
     <main class="principal">
         <div class="conteudo">
